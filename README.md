@@ -1,2 +1,29 @@
-# love-and-impress-
-🌟 Project Showcase: A Special HTML, CSS &amp; JS Creation! 🌟Just finished this fun project where I used HTML, CSS, and JavaScript to create something special. It’s a digital message for someone very important to me: "I Love You." ❤Check it out and let me know what you think
+# Will you be my valentine?
+
+Valentine Page Creator: https://i143.xyz/create
+
+Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+
+This is a fun project for valentines day to bring smile on face of your special person!!
+
+This project is inspired from
+https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+
+# How to start
+```
+npm install -g pnpm
+pnpm i
+pnpm run dev
+```
+
+# Preview
+
+![image description](demo.gif)
+
+
+# How to deploy it
+```
+pnpm run deploy
+```
+
+Made with ❤️ in Berlin!
