@@ -1,29 +1,7 @@
-# Will you be my valentine?
+# impressingCrush
+link mobile.js instead of script.js in index.html to work in mobile.
 
-Valentine Page Creator: https://i143.xyz/create
-
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
-
-This is a fun project for valentines day to bring smile on face of your special person!!
-
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
-
-# How to start
-```
-npm install -g pnpm
-pnpm i
-pnpm run dev
-```
-
-# Preview
-
-![image description](demo.gif)
+![image](https://github.com/developerrahulofficial/impressingCrush/assets/83329806/1a50454f-634d-4d5b-8f8a-ef2333f366c9)
 
 
-# How to deploy it
-```
-pnpm run deploy
-```
-
-Made with ❤️ in Berlin!
+Thanks and Happy Coding.
